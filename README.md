@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @parthkexe
 - 👀 I’m a web developer, and python intermediate programmer
-- 🌱 I’m currently learning js
+- 🌱 I’m currently learning E-commerce
 - 💞️ I’m looking to collaborate on Voice Assistant
 - 📫 reach me on instagram = @parthk.exe
 
